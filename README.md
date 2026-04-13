@@ -1,51 +1,50 @@
 ### Overview
 
-This project analyzes sales, profit, and customer performance data to uncover key business insights and support data-driven decision-making.
-The workflow combines data cleaning, exploratory data analysis (EDA), and interactive dashboard development using Python and Tableau.
+- This project analyzes sales, profit, and customer performance data to uncover key business insights and support data-driven decision-making.
+- The workflow combines data cleaning, exploratory data analysis (EDA), and interactive dashboard development using Python and Tableau.
 
 ### Tools & Technologies
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-Tableau
-Jupyter Notebook / Google Colab
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Tableau
+- Jupyter Notebook / Google Colab
 
 
 ### Key Analysis Performed
-Data cleaning and preprocessing to ensure data quality and consistency
-Revenue and profit analysis to evaluate overall business performance
-Regional analysis to identify geographic trends and high-performing areas
-Time series analysis to uncover sales trends and seasonality patterns
-Customer and product segmentation to identify key revenue drivers
-Discount vs. profit analysis to assess the impact of pricing strategies
-Shipping cost analysis to evaluate cost impact on profitability
-Correlation analysis to identify relationships between key variables
+- Data cleaning and preprocessing to ensure data quality and consistency
+- Revenue and profit analysis to evaluate overall business performance
+- Regional analysis to identify geographic trends and high-performing areas
+- Time series analysis to uncover sales trends and seasonality patterns
+- Customer and product segmentation to identify key revenue drivers
+- Discount vs. profit analysis to assess the impact of pricing strategies
+- Shipping cost analysis to evaluate cost impact on profitability
+- Correlation analysis to identify relationships between key variables
 
 
 ### Dashboard Features (Tableau)
-KPI metrics (Sales, Profit, Quantity, Profit Margin)
-Sales trend over time
-Sales by product category and customer segment
-Profit vs. discount analysis (scatter plot)
-Interactive filters for dynamic exploration
+- KPI metrics (Sales, Profit, Quantity, Profit Margin)
+- Sales trend over time
+- Sales by product category and customer segment
+- Profit vs. discount analysis (scatter plot)
+- Interactive filters for dynamic exploration
 
 
 ### Key Insights
-Higher discount levels are strongly associated with reduced profit margins
-Certain product categories drive the majority of revenue but not necessarily profit
-Seasonal trends indicate peak sales periods that can inform forecasting
-Regional performance varies significantly, highlighting opportunities for targeted strategy
+- Higher discount levels are strongly associated with reduced profit margins
+- Certain product categories drive the majority of revenue but not necessarily profit
+- Seasonal trends indicate peak sales periods that can inform forecasting
+- Regional performance varies significantly, highlighting opportunities for targeted strategy
 
 
 ### Project Links
-Tableau Dashboard: [Insert Tableau Public Link Here]
-Google Colab Notebook: [Insert Colab Link Here]
+- Tableau Dashboard:(https://us-east-1.online.tableau.com/#/site/nekeitriusdavis-8f9daba71b/redirect_to_view/24331411)
+- Google Colab Notebook: (https://colab.research.google.com/drive/1gzX7zKI6W74aYUH0qWhIvpWk3-IrmVrJ?usp=sharing)
 
 
 ### How to Use
-Explore the Tableau dashboard for interactive insights
-Review the Python notebook for data cleaning and analysis steps
-Use filters to analyze trends by region, category, and customer segment
-
+- Explore the Tableau dashboard for interactive insights
+- Review the Python notebook for data cleaning and analysis steps
+- Use filters to analyze trends by region, category, and customer segment
 
 ### Author
 
