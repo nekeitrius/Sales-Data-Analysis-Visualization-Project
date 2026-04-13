@@ -1,8 +1,7 @@
 
 ### Overview
 
-- This project analyzes sales, profit, and customer performance data to uncover key business insights and support data-driven decision-making.
-- The workflow combines data cleaning, exploratory data analysis (EDA), and interactive dashboard development using Python and Tableau.
+This project analyzes sales, profit, and customer performance data to uncover key business insights and support data-driven decision-making. The workflow combines data cleaning, exploratory data analysis (EDA), and interactive dashboard development using Python and Tableau.
 
 ### Tools & Technologies
 
@@ -28,6 +27,7 @@
 - Sales by product category and customer segment
 - Profit vs. discount analysis (scatter plot)
 - Interactive filters for dynamic exploration
+- Fully interactive dashboard with drill-down insights, tooltips, and filtering
 
 <img width="1457" height="759" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a8094669-85a4-420c-96d4-2f8bd8fca58f" />
 
@@ -41,8 +41,10 @@
 
 
 ### Project Links
-- Tableau Dashboard:(https://us-east-1.online.tableau.com/#/site/nekeitriusdavis-8f9daba71b/redirect_to_view/24331411)
-- Google Colab Notebook: (https://colab.research.google.com/drive/1gzX7zKI6W74aYUH0qWhIvpWk3-IrmVrJ?usp=sharing)
+- Tableau Dashboard:(https://us-east-1.online.tableau.com/#/site/nekeitriusdavis-8f9daba71b/redirect_to_view/24331411) Explore filters, tooltips, and interactive views to drill into insights.
+
+- Google Colab Notebook: (https://colab.research.google.com/drive/1gzX7zKI6W74aYUH0qWhIvpWk3-IrmVrJ?usp=sharing) Includes full data cleaning, EDA, and analysis workflow.
+  
 
 
 ### How to Use
