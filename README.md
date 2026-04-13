@@ -1,4 +1,4 @@
-<img width="1457" height="759" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a8094669-85a4-420c-96d4-2f8bd8fca58f" />
+
 ### Overview
 
 - This project analyzes sales, profit, and customer performance data to uncover key business insights and support data-driven decision-making.
@@ -29,7 +29,7 @@
 - Profit vs. discount analysis (scatter plot)
 - Interactive filters for dynamic exploration
 
-- ![Uploading Dashboard 1.png…]()
+<img width="1457" height="759" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a8094669-85a4-420c-96d4-2f8bd8fca58f" />
 
 
 
