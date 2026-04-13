@@ -1,10 +1,16 @@
-# Sales-Data-Analysis-Visualization-Project
-This project analyzes sales, profit, and customer performance data to uncover key business insights and support data-driven decision-making.  The workflow combines data cleaning, exploratory data analysis (EDA), and interactive dashboard development.
-🛠 Tools & Technologies
+### Overview
+
+This project analyzes sales, profit, and customer performance data to uncover key business insights and support data-driven decision-making.
+The workflow combines data cleaning, exploratory data analysis (EDA), and interactive dashboard development using Python and Tableau.
+
+### Tools & Technologies
+
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Tableau
 Jupyter Notebook / Google Colab
-🔍 Key Analysis Performed
+
+
+### Key Analysis Performed
 Data cleaning and preprocessing to ensure data quality and consistency
 Revenue and profit analysis to evaluate overall business performance
 Regional analysis to identify geographic trends and high-performing areas
@@ -13,24 +19,34 @@ Customer and product segmentation to identify key revenue drivers
 Discount vs. profit analysis to assess the impact of pricing strategies
 Shipping cost analysis to evaluate cost impact on profitability
 Correlation analysis to identify relationships between key variables
-📈 Dashboard Features (Tableau)
+
+
+### Dashboard Features (Tableau)
 KPI metrics (Sales, Profit, Quantity, Profit Margin)
 Sales trend over time
 Sales by product category and customer segment
 Profit vs. discount analysis (scatter plot)
 Interactive filters for dynamic exploration
-💡 Key Insights
+
+
+### Key Insights
 Higher discount levels are strongly associated with reduced profit margins
 Certain product categories drive the majority of revenue but not necessarily profit
 Seasonal trends indicate peak sales periods that can inform forecasting
 Regional performance varies significantly, highlighting opportunities for targeted strategy
-🔗 Project Links
+
+
+### Project Links
 Tableau Dashboard: [Insert Tableau Public Link Here]
 Google Colab Notebook: [Insert Colab Link Here]
-🚀 How to Use
+
+
+### How to Use
 Explore the Tableau dashboard for interactive insights
 Review the Python notebook for data cleaning and analysis steps
 Use filters to analyze trends by region, category, and customer segment
-📌 Author
 
-[Your Name]
+
+### Author
+
+Nekeitrius Davis
