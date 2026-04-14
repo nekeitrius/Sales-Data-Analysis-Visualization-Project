@@ -41,7 +41,7 @@ This project analyzes sales, profit, and customer performance data to uncover ke
 
 
 ### Project Links
-- Tableau Dashboard:(https://us-east-1.online.tableau.com/#/site/nekeitriusdavis-8f9daba71b/redirect_to_view/24331411) Explore filters, tooltips, and interactive views to drill into insights.
+- Tableau Dashboard:(https://public.tableau.com/app/profile/nikki.davis1703/vizzes) Explore filters, tooltips, and interactive views to drill into insights.
 
 - Google Colab Notebook: (https://colab.research.google.com/drive/1gzX7zKI6W74aYUH0qWhIvpWk3-IrmVrJ?usp=sharing) Includes full data cleaning, EDA, and analysis workflow.
   
